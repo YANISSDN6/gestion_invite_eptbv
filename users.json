@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "password": "eptv2024",
+    "role": "admin"
+  },
+  {
+    "username": "anis",
+    "password": "mehdibff",
+    "role": "user"
+  }
+]
